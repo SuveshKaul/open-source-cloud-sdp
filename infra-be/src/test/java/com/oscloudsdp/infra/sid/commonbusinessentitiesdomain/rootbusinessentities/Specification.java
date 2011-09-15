@@ -2,7 +2,7 @@ package com.oscloudsdp.infra.sid.commonbusinessentitiesdomain.rootbusinessentiti
 
 /**
  * 
- * @author ericqian
+ * @author oscloudsdp
  *
  */
 public abstract class Specification extends RootEntity {

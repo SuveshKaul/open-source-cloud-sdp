@@ -1,6 +1,6 @@
 package com.oscloudsdp.infra.sid.commonbusinessentitiesdomain.rootbusinessentities;
 
-import java.util.Collection;
+import java.util.List;
 import java.util.UUID;
 
 import com.oscloudsdp.infra.sid.commonbusinessentitiesdomain.rootbusinessentities.characterisitc.CharacteristicValue;
@@ -39,6 +39,14 @@ public abstract class RootEntity {
 	final String objectID = UUID.randomUUID().toString();
 	
 	
-	Collection<CharacteristicValue> characteristicValue;
+	/**
+	 * An ordered collection (also known as a sequence). 
+	 */
+	List<CharacteristicValue> characteristicValue;
+	
+	/**
+	 * extension: tag for searching. space separated text
+	 */
+	String tag; 
 	
 }

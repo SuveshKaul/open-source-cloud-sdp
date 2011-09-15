@@ -38,6 +38,9 @@ public class CharacteristicSpecValue {
 	String 	rangeInterval;
 	TimePeriod validFor;
 	
+	/**
+	 * Extension: format. Use RegEx
+	 */
+	String format;
 	
-
 }
