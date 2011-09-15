@@ -1,4 +1,6 @@
-package com.oscloudsdp.infra.sidbuscm;
+package com.oscloudsdp.infra.sid.commonbusinessentitiesdomain.rootbusinessentities.characterisitc;
+
+import com.oscloudsdp.infra.sid.commonbusinessentitiesdomain.rootbusinessentities.TimePeriod;
 
 
 /**

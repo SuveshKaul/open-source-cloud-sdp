@@ -1,4 +1,4 @@
-package com.oscloudsdp.infra.sidbuscm;
+package com.oscloudsdp.infra.sid.commonbusinessentitiesdomain.rootbusinessentities;
 
 import java.util.Date;
 
