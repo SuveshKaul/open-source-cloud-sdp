@@ -1,4 +1,5 @@
-package com.oscloudsdp.infra.sidbuscm;
+package com.oscloudsdp.infra.sid.commonbusinessentitiesdomain.rootbusinessentities.characterisitc;
+
 
 /**
  * A value of a CharacteristicSpecifcation chosen or entered (if no values are specified) for a Entity that further defines what the Entity is.
