@@ -3,7 +3,6 @@ package com.oscloudsdp.infra.sid.commonbusinessentitiesdomain.rootbusinessentiti
 /**
  * SoC:
  * entityForEntityIdentification								#simplified
- * EntityIdentificationSpecificationForEntityIdentification		#simplified
  * CompositeEntityIdentificationForEntityIdentification			#simplified
  * Security*													#security aspect
  * 
@@ -12,4 +11,6 @@ package com.oscloudsdp.infra.sid.commonbusinessentitiesdomain.rootbusinessentiti
  */
 public class EntityIdentification {
 	String	value;
+	
+	EntityIdentificationSpecification entityIdentificationSpecification;
 }
