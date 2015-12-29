@@ -1,0 +1,1 @@
+Provides the framework and common functions of managing cloud services. Mainly include user management, product/service lifecycle management, content lifecycle management, subscription management, charging/billing and etc.
